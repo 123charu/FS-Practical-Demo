@@ -1,0 +1,7 @@
+
+Q.1--> What do you mean by Full Stack. 
+
+ANS--> full stack refers to an entire computer system or application from the front end to the back end and the code
+       that connects the two. The back end of a computer system encompasses “behind-the-scenes” technologies such as 
+       the database and operating system. The front end is the user interface (UI). This end-to-end system requires
+       many technologies such as the network, hardware, load balancers, and firewalls.
