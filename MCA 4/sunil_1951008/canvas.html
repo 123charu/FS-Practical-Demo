@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Canvas</title>
+	<style>
+		canvas{
+			border: 10px solid black;
+		}
+		
+	</style>
+</head>
+<body>
+	<canvas id="a" width="300" height="300">
+	</canvas>
+	<script>
+		var canvas=document.getElementById("a");
+		var can_sol=canvas.getContext("2d");
+		can_sol.fillStyle = "blue";
+		can_sol.fillRect(50, 50, 100, 100);  
+	</script>
+	
+   
+
+</body>
+</html>
